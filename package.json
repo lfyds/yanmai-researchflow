@@ -1,0 +1,12 @@
+{
+  "name": "yanmai-researchflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "研脉 ResearchFlow CloudBase Node.js deployment",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
